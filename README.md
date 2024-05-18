@@ -46,18 +46,19 @@ There are two methods for adding a deal to the database: you can either manually
 
 ![HOMEpage](https://github.com/hamzahassancode/ProgressSoftAssignment/assets/133760155/f1b14e3b-129a-45db-8929-8b87c1fd6999)
 
-
+- insert single data :
+![insertSingleData](https://github.com/hamzahassancode/ProgressSoftAssignment/assets/133760155/e2bffa26-27ed-49d0-b696-9ea72cb66b2a)
+- select csv file :
+  ![image](https://github.com/hamzahassancode/ProgressSoftAssignment/assets/133760155/0d0a3540-99da-4c29-9c81-d24251dff2d9)
 
 After adding the deal and pressing submit, you will receive a response. A brief illustration of the backend process will then be displayed. Refer to the figure below for more details.
 
-- insert single data successfully :
-![insertSingleData](https://github.com/hamzahassancode/ProgressSoftAssignment/assets/133760155/e2bffa26-27ed-49d0-b696-9ea72cb66b2a)
+#### FROM CSV file
 
-- insert from the csv file :
 - success:
 ![SUCCESS](https://github.com/hamzahassancode/ProgressSoftAssignment/assets/133760155/d53848d3-88a1-46b5-bd79-ca222fddd7d6)
 
-- Deals may have problems, like duplicate Id or wrong format, see figure: 
+- Deals may have problems, like duplicate Id or wrong format:
 - failed:
 ![FALED](https://github.com/hamzahassancode/ProgressSoftAssignment/assets/133760155/8f53404d-4d78-4ebb-94b0-fd21f850bc87)
 partial success:
