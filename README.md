@@ -41,24 +41,24 @@ The user will see this interface when first entering the website:
 
 
 
-#### UserInteraction and functionality
-The user is supposed to choose a csv file that includes the deals he wants to upload, when selecting the file, the user will see:
-
-
-
-After that, he will press the upload file button, and see a brief illustration of the process on the backend, see figure below.
+#### UserInteraction 
+There are two methods for adding a deal to the database: you can either manually insert a single deal or upload multiple deals at once by selecting a CSV file that contains the deals you want to add.
 
 ![HOMEpage](https://github.com/hamzahassancode/ProgressSoftAssignment/assets/133760155/f1b14e3b-129a-45db-8929-8b87c1fd6999)
 
-insert single data successfully :
+
+
+After adding the deal and pressing submit, you will receive a response. A brief illustration of the backend process will then be displayed. Refer to the figure below for more details.
+
+- insert single data successfully :
 ![insertSingleData](https://github.com/hamzahassancode/ProgressSoftAssignment/assets/133760155/e2bffa26-27ed-49d0-b696-9ea72cb66b2a)
 
 - insert from the csv file :
-success:
+- success:
 ![SUCCESS](https://github.com/hamzahassancode/ProgressSoftAssignment/assets/133760155/d53848d3-88a1-46b5-bd79-ca222fddd7d6)
 
 - Deals may have problems, like duplicate Id or wrong format, see figure: 
-failed:
+- failed:
 ![FALED](https://github.com/hamzahassancode/ProgressSoftAssignment/assets/133760155/8f53404d-4d78-4ebb-94b0-fd21f850bc87)
 partial success:
 ![pariall success](https://github.com/hamzahassancode/ProgressSoftAssignment/assets/133760155/d4da6b68-7811-43ee-810c-302da09150f6)
