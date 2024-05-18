@@ -48,9 +48,20 @@ The user is supposed to choose a csv file that includes the deals he wants to up
 
 After that, he will press the upload file button, and see a brief illustration of the process on the backend, see figure below.
 
+![HOMEpage](https://github.com/hamzahassancode/ProgressSoftAssignment/assets/133760155/f1b14e3b-129a-45db-8929-8b87c1fd6999)
+
+insert single data successfully :
+![insertSingleData](https://github.com/hamzahassancode/ProgressSoftAssignment/assets/133760155/e2bffa26-27ed-49d0-b696-9ea72cb66b2a)
+
+insert from the csv file :
+![respose Of ADD SUccesfully](https://github.com/hamzahassancode/ProgressSoftAssignment/assets/133760155/af7f2425-379f-4e50-9ecf-9fab180ed5b3)
+
+![pariall success](https://github.com/hamzahassancode/ProgressSoftAssignment/assets/133760155/ac2f1720-a5b6-4c6c-b860-e04e51ea6687)
 
 
 Deals may have problems, like duplicate Id or wrong format, see figure: 
+![FAILED](https://github.com/hamzahassancode/ProgressSoftAssignment/assets/133760155/3dfea404-e5a3-4359-9899-c7aefb919436)
+![partialSucccess](https://github.com/hamzahassancode/ProgressSoftAssignment/assets/133760155/d0b07f21-4f4c-4ef3-802f-863c308d8842)
 
 
 ## Cache
