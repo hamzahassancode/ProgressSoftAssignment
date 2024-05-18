@@ -64,7 +64,7 @@ After adding the deal and pressing submit, you will receive a response. A brief 
 partial success:
 ![pariall success](https://github.com/hamzahassancode/ProgressSoftAssignment/assets/133760155/d4da6b68-7811-43ee-810c-302da09150f6)
 
-#### ADD single DEAL file
+#### ADD single deal 
 ![dealsusses](https://github.com/hamzahassancode/ProgressSoftAssignment/assets/133760155/a97104b0-0c26-410f-a3dd-716fb62b7fe1)
 
 ## Cache
