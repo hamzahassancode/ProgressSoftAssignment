@@ -30,7 +30,7 @@ The system executes requests based on the following principles:
 ## Getting Started
 To get started with the ClusteredData Warehouse project, follow these steps:
 1. Clone the Repository:
-   ```https://github.com/hamzahassancode/ProgressSoft```
+   ```https://github.com/hamzahassancode/ProgressSoftAssignment```
 2. Install Dependencies: Install docker from the Docker website: https://www.docker.com/
 4. open cmd on the path of the project then cd to the ReadyEnv: ```cd runWebApp```.
 5. type the command: ```docker compose up -d```.
@@ -64,6 +64,8 @@ After adding the deal and pressing submit, you will receive a response. A brief 
 partial success:
 ![pariall success](https://github.com/hamzahassancode/ProgressSoftAssignment/assets/133760155/d4da6b68-7811-43ee-810c-302da09150f6)
 
+#### ADD single DEAL file
+![dealsusses](https://github.com/hamzahassancode/ProgressSoftAssignment/assets/133760155/a97104b0-0c26-410f-a3dd-716fb62b7fe1)
 
 ## Cache
 implements a cache using a LinkedHashMap. It stores DealModel objects with their IDs as keys and evicts the least recently used entries when the cache exceeds a certain size.
