@@ -53,15 +53,15 @@ After that, he will press the upload file button, and see a brief illustration o
 insert single data successfully :
 ![insertSingleData](https://github.com/hamzahassancode/ProgressSoftAssignment/assets/133760155/e2bffa26-27ed-49d0-b696-9ea72cb66b2a)
 
-insert from the csv file :
-![respose Of ADD SUccesfully](https://github.com/hamzahassancode/ProgressSoftAssignment/assets/133760155/af7f2425-379f-4e50-9ecf-9fab180ed5b3)
+- insert from the csv file :
+success:
+![SUCCESS](https://github.com/hamzahassancode/ProgressSoftAssignment/assets/133760155/d53848d3-88a1-46b5-bd79-ca222fddd7d6)
 
-![pariall success](https://github.com/hamzahassancode/ProgressSoftAssignment/assets/133760155/ac2f1720-a5b6-4c6c-b860-e04e51ea6687)
-
-
-Deals may have problems, like duplicate Id or wrong format, see figure: 
-![FAILED](https://github.com/hamzahassancode/ProgressSoftAssignment/assets/133760155/3dfea404-e5a3-4359-9899-c7aefb919436)
-![partialSucccess](https://github.com/hamzahassancode/ProgressSoftAssignment/assets/133760155/d0b07f21-4f4c-4ef3-802f-863c308d8842)
+- Deals may have problems, like duplicate Id or wrong format, see figure: 
+failed:
+![FALED](https://github.com/hamzahassancode/ProgressSoftAssignment/assets/133760155/8f53404d-4d78-4ebb-94b0-fd21f850bc87)
+partial success:
+![pariall success](https://github.com/hamzahassancode/ProgressSoftAssignment/assets/133760155/d4da6b68-7811-43ee-810c-302da09150f6)
 
 
 ## Cache
